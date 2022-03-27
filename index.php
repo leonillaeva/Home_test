@@ -5,7 +5,7 @@
 	
 	<link href="css/reset.css" rel="stylesheet" type="text/css" />
 	<link href="css/style.css" rel="stylesheet" type="text/css" />
-	<title>Интернет-Магазин</title>
+	<title>Интернет-Магазин Git</title>
 </head>
 <body>
 <div id="block-body">
